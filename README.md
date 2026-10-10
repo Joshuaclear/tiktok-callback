@@ -1,2 +1,3 @@
-# tiktok-callback
-Redirect URL for TikTok.
+# TikTok Callback
+
+Redirect endpoint for Josh Butler Throwback Publisher TikTok OAuth flow.
